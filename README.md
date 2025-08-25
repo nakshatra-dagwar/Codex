@@ -17,7 +17,7 @@ A full-stack coding contest platform where users can register, participate in co
 
 ## Tech Stack
 
-- **Frontend:** React, JavaScript, Vite, Tailwind CSS
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB Atlas (cloud only)
 
